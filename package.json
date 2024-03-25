@@ -1,6 +1,6 @@
 {
   "name": "mrth002-cli_number_guessing_game",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
