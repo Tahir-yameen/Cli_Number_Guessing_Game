@@ -1,0 +1,21 @@
+{
+  "name": "mrth002-cli_number_guessing_game",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "keywords": []
+}
